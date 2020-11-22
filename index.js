@@ -43,12 +43,13 @@ form.onsubmit = async (e) => {
             let text = document.createElement('p');
             image.src = imageLink;
 
+            image.setAttribute("class", "picture")
             alink.setAttribute("href", link);
             alink.setAttribute("target", "_blank");
             alink.setAttribute("id", name);
          
             div.setAttribute("id", sum);
-           
+            div.setAttribute("class", "come")
            
             div2.setAttribute("id", sum2);
             text.innerHTML = label;
@@ -63,7 +64,6 @@ form.onsubmit = async (e) => {
        
     }
 }
-
 
 function returnHome(){
     window.location.href = window.location.href;

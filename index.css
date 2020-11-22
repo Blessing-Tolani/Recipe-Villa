@@ -77,7 +77,6 @@ html, body {
 
 input {
   outline: none;
-  background-color: #3e1d60;
 }
 
 #text {
@@ -88,10 +87,6 @@ input {
   font-size: 25px;
   font-family: 'Sofia';
   color: white;
-}
-
-body {
-  position: relative;
 }
 
 #bee {
@@ -157,6 +152,7 @@ body {
 
 #come0 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come1 {
@@ -174,6 +170,7 @@ body {
 
 #come1 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come2 {
@@ -191,6 +188,7 @@ body {
 
 #come2 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come3 {
@@ -208,6 +206,7 @@ body {
 
 #come3 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come4 {
@@ -225,6 +224,7 @@ body {
 
 #come4 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come5 {
@@ -242,6 +242,7 @@ body {
 
 #come5 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come6 {
@@ -259,6 +260,7 @@ body {
 
 #come6 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come7 {
@@ -276,6 +278,7 @@ body {
 
 #come7 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come8 {
@@ -293,6 +296,7 @@ body {
 
 #come8 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come9 {
@@ -310,6 +314,7 @@ body {
 
 #come9 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come10 {
@@ -327,6 +332,7 @@ body {
 
 #come10 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come11 {
@@ -344,6 +350,7 @@ body {
 
 #come11 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come12 {
@@ -361,6 +368,7 @@ body {
 
 #come12 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come13 {
@@ -378,6 +386,7 @@ body {
 
 #come13 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come14 {
@@ -395,6 +404,7 @@ body {
 
 #come14 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come15 {
@@ -412,6 +422,7 @@ body {
 
 #come15 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come16 {
@@ -429,6 +440,7 @@ body {
 
 #come16 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come17 {
@@ -446,6 +458,7 @@ body {
 
 #come17 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come18 {
@@ -463,6 +476,7 @@ body {
 
 #come18 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come19 {
@@ -480,6 +494,7 @@ body {
 
 #come19 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come20 {
@@ -497,6 +512,7 @@ body {
 
 #come20 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come21 {
@@ -514,6 +530,7 @@ body {
 
 #come21 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come22 {
@@ -531,6 +548,7 @@ body {
 
 #come22 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come23 {
@@ -548,6 +566,7 @@ body {
 
 #come23 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come24 {
@@ -565,6 +584,7 @@ body {
 
 #come24 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come25 {
@@ -582,6 +602,7 @@ body {
 
 #come25 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come26 {
@@ -599,6 +620,7 @@ body {
 
 #come26 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come27 {
@@ -616,6 +638,7 @@ body {
 
 #come27 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come28 {
@@ -633,6 +656,7 @@ body {
 
 #come28 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come29 {
@@ -650,6 +674,7 @@ body {
 
 #come29 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come30 {
@@ -667,6 +692,7 @@ body {
 
 #come30 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come31 {
@@ -684,6 +710,7 @@ body {
 
 #come31 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come32 {
@@ -701,6 +728,7 @@ body {
 
 #come32 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come33 {
@@ -718,6 +746,7 @@ body {
 
 #come33 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come34 {
@@ -735,6 +764,7 @@ body {
 
 #come34 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come35 {
@@ -752,6 +782,7 @@ body {
 
 #come35 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come36 {
@@ -769,6 +800,7 @@ body {
 
 #come36 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come37 {
@@ -786,6 +818,7 @@ body {
 
 #come37 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come38 {
@@ -803,6 +836,7 @@ body {
 
 #come38 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come39 {
@@ -820,6 +854,7 @@ body {
 
 #come39 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come40 {
@@ -837,6 +872,7 @@ body {
 
 #come40 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come41 {
@@ -854,6 +890,7 @@ body {
 
 #come41 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come42 {
@@ -871,6 +908,7 @@ body {
 
 #come42 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come43 {
@@ -888,6 +926,7 @@ body {
 
 #come43 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come44 {
@@ -905,6 +944,7 @@ body {
 
 #come44 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come45 {
@@ -922,6 +962,7 @@ body {
 
 #come45 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come46 {
@@ -939,6 +980,7 @@ body {
 
 #come46 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come47 {
@@ -956,6 +998,7 @@ body {
 
 #come47 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come48 {
@@ -973,6 +1016,7 @@ body {
 
 #come48 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come49 {
@@ -990,6 +1034,7 @@ body {
 
 #come49 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come50 {
@@ -1007,6 +1052,7 @@ body {
 
 #come50 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come51 {
@@ -1024,6 +1070,7 @@ body {
 
 #come51 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come52 {
@@ -1041,6 +1088,7 @@ body {
 
 #come52 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come53 {
@@ -1058,6 +1106,7 @@ body {
 
 #come53 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come54 {
@@ -1075,6 +1124,7 @@ body {
 
 #come54 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come55 {
@@ -1092,6 +1142,7 @@ body {
 
 #come55 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come56 {
@@ -1109,6 +1160,7 @@ body {
 
 #come56 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come57 {
@@ -1126,6 +1178,7 @@ body {
 
 #come57 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come58 {
@@ -1143,6 +1196,7 @@ body {
 
 #come58 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come59 {
@@ -1160,6 +1214,7 @@ body {
 
 #come59 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come60 {
@@ -1177,6 +1232,7 @@ body {
 
 #come60 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come61 {
@@ -1194,6 +1250,7 @@ body {
 
 #come61 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come62 {
@@ -1211,6 +1268,7 @@ body {
 
 #come62 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come63 {
@@ -1228,6 +1286,7 @@ body {
 
 #come63 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come64 {
@@ -1245,6 +1304,7 @@ body {
 
 #come64 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come65 {
@@ -1262,6 +1322,7 @@ body {
 
 #come65 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come66 {
@@ -1279,6 +1340,7 @@ body {
 
 #come66 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come67 {
@@ -1296,6 +1358,7 @@ body {
 
 #come67 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come68 {
@@ -1313,6 +1376,7 @@ body {
 
 #come68 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come69 {
@@ -1330,6 +1394,7 @@ body {
 
 #come69 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come70 {
@@ -1347,6 +1412,7 @@ body {
 
 #come70 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come71 {
@@ -1364,6 +1430,7 @@ body {
 
 #come71 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come72 {
@@ -1381,6 +1448,7 @@ body {
 
 #come72 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come73 {
@@ -1398,6 +1466,7 @@ body {
 
 #come73 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come74 {
@@ -1415,6 +1484,7 @@ body {
 
 #come74 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come75 {
@@ -1432,6 +1502,7 @@ body {
 
 #come75 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come76 {
@@ -1449,6 +1520,7 @@ body {
 
 #come76 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come77 {
@@ -1466,6 +1538,7 @@ body {
 
 #come77 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come78 {
@@ -1483,6 +1556,7 @@ body {
 
 #come78 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come79 {
@@ -1500,6 +1574,7 @@ body {
 
 #come79 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come80 {
@@ -1517,6 +1592,7 @@ body {
 
 #come80 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come81 {
@@ -1534,6 +1610,7 @@ body {
 
 #come81 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come82 {
@@ -1551,6 +1628,7 @@ body {
 
 #come82 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come83 {
@@ -1568,6 +1646,7 @@ body {
 
 #come83 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come84 {
@@ -1585,6 +1664,7 @@ body {
 
 #come84 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come85 {
@@ -1602,6 +1682,7 @@ body {
 
 #come85 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come86 {
@@ -1619,6 +1700,7 @@ body {
 
 #come86 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come87 {
@@ -1636,6 +1718,7 @@ body {
 
 #come87 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come88 {
@@ -1653,6 +1736,7 @@ body {
 
 #come88 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come89 {
@@ -1670,6 +1754,7 @@ body {
 
 #come89 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come90 {
@@ -1687,6 +1772,7 @@ body {
 
 #come90 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come91 {
@@ -1704,6 +1790,7 @@ body {
 
 #come91 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come92 {
@@ -1721,6 +1808,7 @@ body {
 
 #come92 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come93 {
@@ -1738,6 +1826,7 @@ body {
 
 #come93 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come94 {
@@ -1755,6 +1844,7 @@ body {
 
 #come94 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come95 {
@@ -1772,6 +1862,7 @@ body {
 
 #come95 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come96 {
@@ -1789,6 +1880,7 @@ body {
 
 #come96 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come97 {
@@ -1806,6 +1898,7 @@ body {
 
 #come97 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come98 {
@@ -1823,6 +1916,7 @@ body {
 
 #come98 > img {
   width: 100%;
+  height: 100%;
 }
 
 #come99 {
@@ -1840,6 +1934,7 @@ body {
 
 #come99 > img {
   width: 100%;
+  height: 100%;
 }
 
 #cont0 {
