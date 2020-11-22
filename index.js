@@ -12,7 +12,7 @@ form.onsubmit = async (e) => {
     let response = await fetch(url);
     let result = await response.json();
     console.log(result);
-
+   
     if(result.hits == ""||null){
         document.getElementById("animation").style.display = "none";
         document.getElementById("grid-container").style.display = "grid";
