@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel = "stylesheet" href = "index.css" type = "text/css" >
+    <link rel = "stylesheet" href = "query.css" type = "text/css" >
+    <link href='https://fonts.googleapis.com/css?family=Sofia' rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Amaranth' rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=ABeeZee' rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+<body>
+    <div id = "animation">
+        <i class = "fa fa-spinner fa-5x"></i>
+    </div>
+    <div id="grid-container">
+        <div class="grid-item header">
+            <div id = "text">
+                <h1>Recipe Villa</h1>
+               
+            </div>
+           
+        </div>
+        <div class="grid-item">
+            <div id = "grid-item1">
+                <div id = "text2">
+                    <h1>Search for Recipes based on the ingredient you have</h1>
+                    <div id = "formdiv">
+                        <form id = "form">
+                            <input type="text" id="ingredient" name="ingredient" placeholder="Enter ingredient" pattern = "[a-zA-Z/ ]+" title =  'Only Alphabets and Space Required' >
+                            <button id="search"><i class = "fas fa-search"></i></button>
+                        
+                        </form>
+                    
+                    </div>
+                </div>
+            </div>
+            <div id = "grid-item2">
+                <div id = "foodList">
+
+                </div>
+
+            </div>
+        </div>
+        <div class="grid-item main ">
+            <div id = "main1"> 
+                <div id = "text3">
+                    <h2>Our cuisine cuts across the world</h2>
+                </div>
+                <div id="tags">
+                    <p class="tag">American</p>
+                    <p class="tag">Asian</p>
+                    <p class="tag">British</p>
+                    <p class="tag">Caribbean</p>
+                    <p class="tag">Central Europe</p> 
+                    <p class="tag">Chinese</p>
+                    <p class="tag">Eastern Europe</p>
+                    <p class="tag">French</p> 
+                    <p class="tag">Indian</p> 
+                    <p class="tag">Italian</p>
+                    <p class="tag">Japanese</p>
+                    <p class="tag">Mexican</p>
+                    <p class="tag">South American</p>
+                    <p class="tag">South East Asian</p>
+                </div>
+            </div>
+        </div>
+       
+        <div class="grid-item">
+            <button id = "bee" onclick=" returnHome()">Home</button>
+                <div id="foot">
+                   <footer>
+                       <p><span class="foot"> &#169; 2020 Tolani </p>
+                   </footer>
+               </div>  
+        </div>
+    </div>
+    <script src = "index.js"></script>
+    <script src = "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+    <script src = "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/ScrollTrigger.min.js" ></script>
+   
+</body>
+</html>

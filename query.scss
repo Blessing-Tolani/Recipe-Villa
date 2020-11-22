@@ -1,0 +1,53 @@
+@media screen and (max-width:900px){
+    @for $i from 0 through 99 {
+        #come#{$i}{
+           // width:250px;
+            width:30%;
+            height:40%;
+            margin:1.66%;
+         
+        }
+    }
+   
+
+}
+
+@media screen and (max-width:600px){
+    @for $i from 0 through 99 {
+        #come#{$i}{
+            width:45%;
+            height:50%;
+            margin:2.5%;
+            font-size:17px;
+        }
+    }
+   
+
+}
+
+
+
+@media screen and (max-width:500px){
+    #text2{
+        >h1{
+            font-size: 25px;
+        }
+    }
+  
+    #text{
+        font-size:20px;
+    }
+    @for $i from 0 through 99 {
+        #come#{$i}{
+            
+            font-size:16px;
+        }
+    }
+    @for $b from 0 through 99 {
+        #cont#{$b}{
+           padding:5px;
+          
+        }
+    }
+   
+}
