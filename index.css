@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   -webkit-tap-highlight-color: transparent;
+  outline: none;
 }
 
 body {
@@ -74,6 +75,10 @@ html, body {
   height: 30px;
 }
 
+input {
+  outline: none;
+}
+
 #text {
   display: flex;
   justify-content: center;
@@ -98,20 +103,20 @@ body {
   font-weight: 900;
   font-size: 16px;
   outline: none;
-  background: linear-gradient(to right, #e6cdb1 50%, #773547 50%);
+  background: linear-gradient(to right, white 50%, #3e1d60 50%);
   transition: all .5s ease-out;
   background-position: right bottom;
   background-size: 200% 100%;
   width: 100px;
   height: 40px;
-  color: #e5e0da;
+  color: white;
   text-align: center;
-  border: 1px solid #773547;
+  border: 1px solid #3e1d60;
 }
 
 #bee:hover {
   background-position: left bottom;
-  color: #773547;
+  color: #3e1d60;
 }
 
 #foot {
@@ -128,6 +133,7 @@ body {
 }
 
 #text2 > h1 {
+  color: white;
   padding: 50px 20px 0px;
 }
 
